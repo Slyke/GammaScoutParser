@@ -1,0 +1,16 @@
+{
+  "name": "gammascout-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test_calib": "node test/calibration_run.js",
+    "test": "node test/parselog_test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
