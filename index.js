@@ -9,7 +9,8 @@
 'use strict';
 
 let retr = {
-  Parser: require('./lib/parseLog')
+  Parser: require('./lib/parseLog'),
+  Utils: require('./lib/utils')
 };
 
 module.exports = {...retr};

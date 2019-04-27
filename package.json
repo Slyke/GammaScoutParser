@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test_calib": "node test/calibration_run.js",
-    "test": "node test/parselog_test.js"
+    "test_parse": "node test/parselog_test.js"
   },
   "author": "",
   "license": "ISC"
